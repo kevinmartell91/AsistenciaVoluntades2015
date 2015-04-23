@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoluntadesRRHH</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Splash Strings -->
+    <string name="splash_title">Voluntades\nRRHH</string>
+    <string name="hint_code">Código de verificación</string>
+    <string name="splash_submit">Ingresar</string>
+
+    <!-- Main String -->
+    <string name="take_assistance">Asistencia de hoy</string>
+    <string name="today">15/15/2015</string>
+    <string name="save">Guardar</string>
+    <string name="update">Actualizar</string>
+
+    <!-- Item State -->
+    <string name="state_good">Llegó temprano</string>
+    <string name="state_bad">No llegó</string>
+    <string name="state_middle">Llegó tarde</string>
+
+    <!-- Item Assitance -->
+    <string name="name_default">Nombre del voluntario</string>
+    <string name="state_default">Estado del voluntario</string>
+
+</resources>
